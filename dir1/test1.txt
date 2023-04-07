@@ -1,0 +1,1 @@
+test file to see how .gitignore works with folders and their files
